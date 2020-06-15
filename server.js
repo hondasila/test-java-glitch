@@ -20,4 +20,4 @@ setInterval(() => {
 
 var shell = require('shelljs');
   
-shell.exec('java -jar JMusicBot-0.2.6.jar')
+shell.exec('java -Dnogui=true -jar bot.jar')

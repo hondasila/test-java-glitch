@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = NjYxNzEyOTc0NTQ0NjMzOTA2.XiB_-A.tWNesJ-yej_Aj7VifSVeSByBzv4
+token = NjI3MjI3NzMxNDAyMTYyMTg3.Xh-pZQ.DAqxwvZatMRK0WeZjw3Nvt4bfc8
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -28,7 +28,7 @@ owner = 507149300673937419
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix = "-"
+prefix = "!"
 
 
 // If you set this, it modifies the default game of the bot
@@ -81,7 +81,7 @@ help = helpp
 // This is because refreshing the boxes causes the image to be reloaded
 // every time it refreshes.
 
-npimages = true
+npimages = false
 
 
 // If you set this, the bot will not leave a voice channel after it finishes a queue.
@@ -95,7 +95,7 @@ stayinchannel = true
 // to any number less than or equal to zero, there is no maximum time length. This time
 // restriction applies to songs loaded from any source.
 
-maxtime = 0
+maxtime = 60
 
 
 // This sets an alternative folder to be used as the Playlists folder
@@ -107,7 +107,7 @@ playlistsfolder = "Playlists"
 // By default, the bot will DM the owner if the bot is running and a new version of the bot
 // becomes available. Set this to false to disable this feature.
 
-updatealerts=true
+updatealerts=false
 
 
 // Changing this changes the lyrics provider
