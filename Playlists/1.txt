@@ -1,0 +1,4 @@
+# This is an example playlist
+# You can put this in your Playlists folder as 1.txt
+# shuffle
+
