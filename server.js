@@ -13,7 +13,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://phoenixx-music.glitch.me`);
+  http.get(`http://.glitch.me`);
 }, 280000); 
 
 
